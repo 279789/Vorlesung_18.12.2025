@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/fetch_demo.dir/link.d CMakeFiles/fetch_demo.dir/src/main.cpp.o -o fetch_demo  _deps/stemgraph_cmake_lib-build/libSTEMgraphCMakeLib.a
