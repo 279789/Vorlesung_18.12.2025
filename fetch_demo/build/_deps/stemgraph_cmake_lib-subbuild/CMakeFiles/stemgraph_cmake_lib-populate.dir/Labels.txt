@@ -1,0 +1,14 @@
+# Target labels
+ stemgraph_cmake_lib-populate
+# Source files and their labels
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/CMakeFiles/stemgraph_cmake_lib-populate
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/CMakeFiles/stemgraph_cmake_lib-populate.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/CMakeFiles/stemgraph_cmake_lib-populate-complete.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-build.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-configure.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-download.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-install.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-mkdir.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-patch.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-test.rule
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-subbuild/stemgraph_cmake_lib-populate-prefix/src/stemgraph_cmake_lib-populate-stamp/stemgraph_cmake_lib-populate-update.rule

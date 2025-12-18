@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/cmake_install.cmake",
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

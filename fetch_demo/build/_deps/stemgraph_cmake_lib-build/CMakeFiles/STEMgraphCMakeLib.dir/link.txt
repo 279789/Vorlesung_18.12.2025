@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSTEMgraphCMakeLib.a CMakeFiles/STEMgraphCMakeLib.dir/src/hello.cpp.o
+/usr/bin/ranlib libSTEMgraphCMakeLib.a

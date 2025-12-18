@@ -1,0 +1,6 @@
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/CMakeFiles/fetch_demo.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/CMakeFiles/rebuild_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-build/CMakeFiles/STEMgraphCMakeLib.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-build/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/fetch_demo/build/_deps/stemgraph_cmake_lib-build/CMakeFiles/rebuild_cache.dir
