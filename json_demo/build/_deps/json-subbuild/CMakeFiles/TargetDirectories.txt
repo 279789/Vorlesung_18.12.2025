@@ -1,0 +1,3 @@
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/json_demo/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/json_demo/build/_deps/json-subbuild/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/json_demo/build/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir

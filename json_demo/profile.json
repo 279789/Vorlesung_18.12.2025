@@ -1,0 +1,15 @@
+{
+    "born": 1815,
+    "is_active": false,
+    "meta": {
+        "score": 99.5,
+        "tags": null,
+        "verified": true
+    },
+    "name": "Ada Lovelace",
+    "skills": [
+        "mathematics",
+        "programming",
+        "poetry"
+    ]
+}
