@@ -1,0 +1,12 @@
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/CMakeFiles/CLI11Demo.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/CMakeFiles/rebuild_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/CMakeFiles/rebuild_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/fuzz/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/fuzz/CMakeFiles/rebuild_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/src/CMakeFiles/CLI11.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/src/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/src/CMakeFiles/rebuild_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/single-include/CMakeFiles/edit_cache.dir
+/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/single-include/CMakeFiles/rebuild_cache.dir

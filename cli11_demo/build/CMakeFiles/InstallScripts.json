@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/cmake_install.cmake",
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/cmake_install.cmake",
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/fuzz/cmake_install.cmake",
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/src/cmake_install.cmake",
+		"/home/phil/Programieren/Objektorientierung/repos/Vorlesung_18.12.2025/cli11_demo/build/_deps/cli11-build/single-include/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
